@@ -1,7 +1,0 @@
-streamlit
-numpy
-pandas
-matplotlib.pyplot
-datetime
-statsmodels
-tensorflow
