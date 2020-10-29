@@ -8,5 +8,5 @@ This folder contains the following files:
 1. Sales Orders Prediction - SARIMA vs RNN LSTM.ipynb : This is the notebook document that contains the full project.
 2. sales_orders : This is the raw data used for this project.
 
-Click on the following link to access the forecasting app:
+Click on the following link to access the forecasting demo:
 https://jm-forecasting-app.herokuapp.com/ 
